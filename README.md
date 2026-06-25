@@ -8,6 +8,9 @@ The system ingests a knowledge document, generates vector embeddings, stores the
 
 This project was developed as part of the Edxso AI Engineer Intern Assignment.
 
+
+async video walkthrough : https://drive.google.com/file/d/1AYL9jLRDuIVpCyJCnbucaZv7aZMPZnTX/view?usp=drive_link
+
 ---
 
 ## Features
